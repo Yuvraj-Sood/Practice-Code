@@ -1,0 +1,24 @@
+1. WAP to print factors of n.		20	-	1,2,4,5,10,20
+2. WAP to print factors of n. and their count.
+3. WAP to print sum of factors of n(except n).  10 - 1,2,5
+4. WAp to print if n is a Perfect Number, Access or Deficient.	28 - 1,2,4,7,14 = 28	6 - 1,2,3
+5. WAp to print if n is Prime or not.
+6. WAp to print if x and y are buddies.
+	220	-	sum of factors	284
+	284	-	220
+
+7. WAP to print HCF/GCD of x and y.		20	30	10 
+
+8. WAP to count digits in a number.		738648 : It is a 6 Digit Number
+9. WAP to print sum of digits of a number.	1234 = 10
+10. WAP to print if n is a Palindrome.		121		121
+
+
+
+	
+	
+	
+		
+	
+	
+	

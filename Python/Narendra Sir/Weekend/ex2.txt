@@ -1,0 +1,86 @@
+1. WAP to check if n is even.
+
+2. WAP to input Age and print Child, Young, Adult or Old
+	<=12	Child
+	13-21   Young
+	21-50   Adult
+	>50	Old		>	>=	<	<=	==	!=
+				and	or	not
+				
+3. WAP to print max of 3 numbers.
+4. WAP to print if a year is a Leap Year	2001
+	i) Div by 400
+	ii) Div by 4 but not by 100		1900
+5. WAP to print salary slip of an employee
+
+BS		DA	HRA	TA	TS	Tax	NS
+>=30000		50%	20	10		-8
+18-30		45	18	8		-6
+<18		40	15	5		-4%
+
+6. Enter 3 sides of a triangle. Print if the triangle is Possible. 
+Print the type of a triangle : Equi, Iso, Scalene
+
+7. Electricity Bill
+
+	Previous Reading	:	?
+	Current Reading		:	?
+	Connection type		:	?	C/R		Commercial, Residential
+	
+Units		300	200	More
+
+Res		3.4	3.8	4.3
+Comm		4.2	4.9	5.7
+
+GST		:	Comm   8%		Res	5%
+
+Total Bill	:	?
+
+8. WAP to make a simple calculator:
+	Number 1 : ?
+	Operator : + - * / %
+	Number 2 :
+	Result
+	
+9. Currency Converter
+	Amount (Rs)	:	?
+		Select an option
+	1. Dollar(73.05)
+	2. Euro(89.70)
+	3. Pound(99.20)
+	
+	Enter your option :   1
+
+	x Rs = y Dollar (2 Decimal Place)
+	
+10. ATM Note Dispenser		2000,500,100,10
+
+	Amount : ?		(should be a multiple of 10)
+	
+	730
+	
+11. WAP to check if n is a perfect square.	1,4,9,16,25,36,49		30
+
+12. WAP to print if a 4-Digit number is symmetrical.		1313
+
+		n//100==n%100
+13. WAP to print if a 4-Digit number is Palindrome.		1331
+
+14. WAP to print if a 4-Digit number is a Complete Perfect Square.
+
+		1681		16		81		1681
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+				

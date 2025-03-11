@@ -1,0 +1,17 @@
+
+Q.1. WAP to print average of 3 numbers.
+Q.2. WAP to convert temp from celcius to fah.	f = 1.8*c+32;
+Q.3. WAP to input radius of a circle and print its dia, area and peri.
+Q.4.	p, r, t	:	si
+Q.4. 
+
+	Basic Salary 	: 	20000
+	---------------------------
+	DA		:	50% of BS
+	HRA		:	20%
+	TA		:	10%
+	---------------------------
+	Total Salary	:	bs+da+hra+ta
+	Tax		:	-8% of TS
+	---------------------------
+	Net Salary	:	ts-tax
