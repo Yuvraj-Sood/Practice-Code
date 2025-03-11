@@ -1,0 +1,8 @@
+D:\Programming\C#\Perfect Number 2-1000\obj\Debug\Perfect Number 2-1000.csproj.AssemblyReference.cache
+D:\Programming\C#\Perfect Number 2-1000\obj\Debug\Perfect Number 2-1000.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\Perfect Number 2-1000\obj\Debug\Perfect Number 2-1000.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Perfect Number 2-1000\bin\Debug\Perfect Number 2-1000.exe.config
+D:\Programming\C#\Perfect Number 2-1000\bin\Debug\Perfect Number 2-1000.exe
+D:\Programming\C#\Perfect Number 2-1000\bin\Debug\Perfect Number 2-1000.pdb
+D:\Programming\C#\Perfect Number 2-1000\obj\Debug\Perfect Number 2-1000.exe
+D:\Programming\C#\Perfect Number 2-1000\obj\Debug\Perfect Number 2-1000.pdb
