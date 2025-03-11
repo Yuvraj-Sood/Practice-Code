@@ -1,0 +1,8 @@
+D:\Programming\C#\Armstrong\obj\Debug\Armstrong.csproj.AssemblyReference.cache
+D:\Programming\C#\Armstrong\obj\Debug\Armstrong.csproj.SuggestedBindingRedirects.cache
+D:\Programming\C#\Armstrong\obj\Debug\Armstrong.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Armstrong\bin\Debug\Armstrong.exe.config
+D:\Programming\C#\Armstrong\bin\Debug\Armstrong.exe
+D:\Programming\C#\Armstrong\bin\Debug\Armstrong.pdb
+D:\Programming\C#\Armstrong\obj\Debug\Armstrong.exe
+D:\Programming\C#\Armstrong\obj\Debug\Armstrong.pdb
