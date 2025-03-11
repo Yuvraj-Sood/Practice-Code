@@ -1,0 +1,14 @@
+BS=20000
+DA=(50/100)*BS
+HRA=(20/100)*BS
+TA=(10/100)*BS
+TS=BS+DA+HRA+TA
+tax=(-8/100)*TS
+NS=TS-tax
+print(BS)
+print(DA)
+print(HRA)
+print(TA)
+print(TS)
+print(tax)
+print(NS)
