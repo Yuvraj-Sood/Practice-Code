@@ -1,0 +1,48 @@
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.exe
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.deps.json
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.runtimeconfig.json
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.dll
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.pdb
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programming\C#\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.csproj.AssemblyReference.cache
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert_Delete_Update.Form1.resources
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.csproj.GenerateResource.cache
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.AssemblyInfoInputs.cache
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.AssemblyInfo.cs
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.csproj.CopyComplete
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.dll
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\refint\Insert,Delete,Update.dll
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.pdb
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.genruntimeconfig.cache
+D:\Programming\C#\Insert,Delete,Update\obj\Debug\net6.0-windows\ref\Insert,Delete,Update.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.exe
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.deps.json
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.runtimeconfig.json
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\Insert,Delete,Update.pdb
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.csproj.AssemblyReference.cache
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert_Delete_Update.Form1.resources
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.csproj.GenerateResource.cache
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.AssemblyInfoInputs.cache
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.AssemblyInfo.cs
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.csproj.CopyComplete
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\refint\Insert,Delete,Update.dll
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.pdb
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\Insert,Delete,Update.genruntimeconfig.cache
+D:\Programming\C#\Data Base Connectivity\Insert,Delete,Update\obj\Debug\net6.0-windows\ref\Insert,Delete,Update.dll
