@@ -1,0 +1,7 @@
+D:\Programming\C#\Data Base Connectivity\Disconnected Architecture\Display\obj\Debug\net6.0-windows\Display.csproj.AssemblyReference.cache
+D:\Programming\C#\Data Base Connectivity\Disconnected Architecture\Display\obj\Debug\net6.0-windows\Display.Form1.resources
+D:\Programming\C#\Data Base Connectivity\Disconnected Architecture\Display\obj\Debug\net6.0-windows\Display.csproj.GenerateResource.cache
+D:\Programming\C#\Data Base Connectivity\Disconnected Architecture\Display\obj\Debug\net6.0-windows\Display.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Data Base Connectivity\Disconnected Architecture\Display\obj\Debug\net6.0-windows\Display.AssemblyInfoInputs.cache
+D:\Programming\C#\Data Base Connectivity\Disconnected Architecture\Display\obj\Debug\net6.0-windows\Display.AssemblyInfo.cs
+D:\Programming\C#\Data Base Connectivity\Disconnected Architecture\Display\obj\Debug\net6.0-windows\Display.csproj.CoreCompileInputs.cache
