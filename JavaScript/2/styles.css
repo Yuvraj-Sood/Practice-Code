@@ -1,0 +1,27 @@
+body {
+    background-color: red;
+}
+.B1 {
+    color: aqua;
+    background-color: black;
+}
+.B2{
+    color: blue;
+    background-color: blueviolet;
+}
+
+.bag {
+    background-color: lightgreen;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+    padding: 5px 15px;
+}
+
+.list{
+    border-radius: 5px;
+    font-size: 20px;
+    border: 4px dashed black;
+    padding: 15px 25px;
+
+}

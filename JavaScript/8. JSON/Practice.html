@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Date ANd DOM Practice</title>
+    <style>
+        .b1{
+            height: 50px;
+            width: 100px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h3 id="greeting"> </h3>
+    <button class="b1" onclick="buttonPressed()"> </button>
+    <script>
+
+        function buttonPressed(){
+            let count=localStorage.getItem('count') || 0;
+            console.log('Pressed');
+            count++;
+            let button=document.querySelector('.b1');
+            button.innerText=count;
+            count=localStorage.setItem('count',count);
+        }
+        document.querySelector('.b1').c
+        let name='Yuvraj';
+        let myDate=new Date();
+        let heading=document.querySelector('#greeting');
+        if(myDate.getHours() >= 0 && myDate.getHours() <= 12 )
+        {
+            heading.innerText=`Good Morning ${name}`;
+            console.log('Good Morning ' + name);
+
+        }
+        if(myDate.getHours() >= 13 && myDate.getHours() <= 17 )
+        {
+            heading.innerText=`Good Afternoon ${name}`;
+            console.log('Good Afternoon ' + name);
+
+        }if(myDate.getHours() >= 16 && myDate.getHours() <= 24 )
+        {
+            heading.innerText=`Good Night ${name}`;
+            console.log('Good Night ' + name);
+
+        }
+    </script>
+    
+</body>
+</html>

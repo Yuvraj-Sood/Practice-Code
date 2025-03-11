@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice</title>
+</head>
+<body>
+    <script>
+        let product = {
+            name:'T-shirt',
+            colour: 'blue',
+            size: 38,
+            time: '3 Days'
+            isIdentical() {
+                if(this.name == product.name)
+                {
+                    return true;
+                }
+            }
+        }
+        console.log(product);
+
+        let ob1={
+            number: 55,
+            text:'object one example',
+            change: 'Obj1',
+        }
+        let ob2=ob1;
+        console.log(ob1);
+        console.log(ob2);
+
+        ob2.change='Obj2';
+        console.log(ob1);
+        console.log(ob2);
+
+        product['time']='2Days'
+        console.log(product);
+
+        let task={
+            message: 'Good Job',
+            status: 'Completed',
+        };
+
+        console.log(task);
+        let {message,status}=task;
+        console.log(message); 
+        console.log(status);       
+
+
+
+
+    </script>
+</body>
+</html>

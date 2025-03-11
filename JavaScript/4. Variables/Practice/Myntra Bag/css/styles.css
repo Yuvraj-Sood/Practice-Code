@@ -1,0 +1,13 @@
+.b1, .b3 {
+    background-color: lightgreen;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 15px;
+}
+
+.b2 {
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 5px 15px;
+    text-transform: uppercase;
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Objects</title>
+</head>
+<body>
+<script>
+    let product = {
+        company : 'Mango',
+        item : 'T-Shirt',
+        price : 9.99,
+    };
+    console.log(product);
+    console.log(product.item);
+    console.log(product.company);
+    console.log(product.price);
+    product.company='Banana';
+    console.log(product.company);
+    console.log(product);
+
+    // we can even use [] to access items but we have to pass it a string example - 
+    console.log(product['item']);
+
+    delete product.company;
+    console.log(product);
+
+    let product1={
+        company : 'Mango',
+        item : 'T-Shirt',
+        price : 9.99,
+        displayPrice : function() {
+            return (this.price.toFixed(2));
+        }
+    }
+    console.log(product1);
+    console.log(product1.displayPrice());
+
+</script>
+
+    
+</body>
+</html>
